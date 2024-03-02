@@ -2583,15 +2583,7 @@ h6 {
   position: relative;
   padding-top: 40px;
   padding-bottom: 60px; }
-  .tabs_inner .tab-content .tab-pane .list:before {
-    content: "";
-    height: 100%;
-    width: 5px;
-    background: rgba(255, 255, 255, 0.2);
-    position: absolute;
-    left: 46%;
-    transform: translateX(-50%);
-    top: -5px; }
+
   .tabs_inner .tab-content .tab-pane .list li {
     margin-bottom: 60px;
     position: relative; }
